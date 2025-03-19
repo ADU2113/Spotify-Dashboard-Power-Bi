@@ -10,12 +10,6 @@ This project features an interactive **Power BI dashboard** that provides insigh
 - **Top Songs Ranking**: Lists the most played tracks, ranked by total streams.
 - **Historical Release Trends**: Shows the number of tracks released over different years.
 
-## 📂 Files in Repository
-- `Spotify_Dashboard.pbix` – Power BI file containing the dashboard.
-- `data.csv` – Raw dataset containing Spotify streaming information.
-- `image.png` – Screenshot of the dashboard.
-- `README.md` – Documentation for this project.
-
 ### 🔹 Open in Power BI  
 1. Install **Power BI Desktop** (if not already installed).  
 2. Open `Spotify.pbix` and explore the insights.  
