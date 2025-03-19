@@ -16,10 +16,6 @@ This project features an interactive **Power BI dashboard** that provides insigh
 - `image.png` – Screenshot of the dashboard.
 - `README.md` – Documentation for this project.
 
-## 🚀 How to Use
-1. **Clone the Repository**:
-   ```bash git clone https://github.com/ADU2113/Spotify-Dashboard-Power-BI.git
-
 ### 🔹 Open in Power BI  
 1. Install **Power BI Desktop** (if not already installed).  
 2. Open `Spotify.pbix` and explore the insights.  
