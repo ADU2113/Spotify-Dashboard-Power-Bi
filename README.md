@@ -3,8 +3,6 @@
 ## 📌 Overview
 This project features an interactive **Power BI dashboard** that provides insights into Spotify streaming data. It visualizes trends in music streaming, track characteristics, and historical data.
 
-## 🖼️ Dashboard Preview
-![Spotify Dashboard](image.png)
 
 ## 📊 Key Features
 - **Track Analysis**: Displays details about the most streamed song, including its characteristics (energy, danceability, etc.).
@@ -20,8 +18,7 @@ This project features an interactive **Power BI dashboard** that provides insigh
 
 ## 🚀 How to Use
 1. **Clone the Repository**:
-   ```bash
- git clone https://github.com/ADU2113/Spotify-Dashboard-Power-BI.git
+   ```bash git clone https://github.com/ADU2113/Spotify-Dashboard-Power-BI.git
 
 ### 🔹 Open in Power BI  
 1. Install **Power BI Desktop** (if not already installed).  
